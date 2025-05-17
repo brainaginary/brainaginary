@@ -1,8 +1,4 @@
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brainaginary&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="left">
+<p align="center">
   <h1>Technologies I Use</h1>
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -16,6 +12,10 @@
   <!-- Editors -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brainaginary&layout=compact&theme=tokyonight" />
 </p>
 
 <!--
