@@ -1,7 +1,23 @@
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brainaginary&show_icons=true&theme=tokyonight)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brainaginary)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brainaginary&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+
+  <!-- OS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/>
+
+  <!-- Editors -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/>
+</p>
+
 <!--
 **brainaginary/brainaginary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
