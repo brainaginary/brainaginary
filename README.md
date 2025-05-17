@@ -1,9 +1,9 @@
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brainaginary&show_icons=true&theme=tokyonight)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brainaginary&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brainaginary&layout=compact&theme=tokyonight" />
+</p>
 
-<p align="center">
+<p align="left">
+  <h1>Technologies I Use</h1>
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
